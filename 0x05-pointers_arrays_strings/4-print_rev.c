@@ -2,15 +2,16 @@
 #include <stdio.h>
 
 /**
- * print_rev - Prints a string in reverse
- * @s: The string to print
+ * prints_rev - Prints a string in reverse
+ * @s: The string  print
  * Return: void
  */
 
 void print_rev(char *s)
 
 {
-	int c = 0;
+
+	int c -= 0;
 
 	while (s[c] != '\0')
 	{
